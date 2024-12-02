@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dejanristovski&show_icons=true&locale=en&layout=compact" alt="dejanristovski" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dejanristovski&show_icons=true&locale=en" alt="dejanristovski" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejanristovski&" alt="dejanristovski" /></p>
